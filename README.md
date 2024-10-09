@@ -1,5 +1,5 @@
 # Machine_Learning_for_Emotional_Intelligencce
-This is a proof-of-concept for a tool to help foster emotional intelligence and assist web-based mental health interventions, including apps, websites, hotlines, etc. It takes your photo and a caption and infers your emotional state.
+This is a proof-of-concept for a tool to help foster emotional intelligence and assist web-based mental health interventions, including apps, websites, hotlines, etc. It takes your photo and a caption and infers your emotional state. 
 
 Emotional intelligence is defined as the ability to understand and harness our and others' emotions, and is a key factor in positively coping with personal hardship and empathetically dealing with interpersonal conflicts. It is a skill practiced by mental health professionals and volunteer counselors alike, as simply understanding our emotional state at a given moment can be challenging. Given the US' overtaxed mental health infrastucture, promoting ways for individuals to effectively manage their emotions by themselves is of vital importance. 
 
