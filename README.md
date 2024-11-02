@@ -11,6 +11,14 @@ There is room for improvement for the models; given that the training datasets u
 
 One could also attempt to separate the neutral data from the data with emotion first, using another set of neural networks, as the model struggles the most with predicting neutral expressions and comments. 
 
+## Packages
+###Tensorflow/Keras
+These packages are necessary for constructing and implementing my neural networks. I rely on Tensorflow and Keras' packages for all of the architecture, from the basic structure to the custom callbacks.
+###Sci-Kit Learn
+Sci-Kit Learn provides two important services - a way for me to vectorize text data so that I can run it through my text classifier, and a way to split my image and text data into training and testing sets.
+###Numpy/Pandas
+Numpy and Pandas are needed for Tensorflow and Keras to function, and are required for loading and formatting the datasets I use.
+
 ## Bibliography
 Image data was sourced from this project: https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
 Text data was sourced from this project: https://github.com/Valendrew/ekman-emotion-detection
