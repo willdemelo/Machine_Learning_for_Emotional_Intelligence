@@ -12,7 +12,7 @@ There is room for improvement for the models; given that the training datasets u
 
 One could also attempt to separate the neutral data from the data with emotion first, using another set of neural networks, as the model struggles the most with predicting neutral expressions and comments. 
 
-## Code and Packages
+## Resources
 - **Editor Used:**  Jupyter Notebook
 - **Python Version:** Python 3.11.5
 ### Tensorflow/Keras
