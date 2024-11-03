@@ -1,6 +1,7 @@
 # Machine_Learning_for_Emotional_Intelligencce
 This is a proof-of-concept for a tool to help foster emotional intelligence and assist web-based mental health interventions, including apps, websites, hotlines, etc. It takes your photo and a caption and infers your emotional state. 
 
+## Project Overview
 Emotional intelligence is defined as the ability to understand and harness our and others' emotions, and is a key factor in positively coping with personal hardship and empathetically dealing with interpersonal conflicts. It is a skill practiced by mental health professionals and volunteer counselors alike, as simply understanding our emotional state at a given moment can be challenging. Given the US' overtaxed mental health infrastucture, promoting ways for individuals to effectively manage their emotions by themselves is of vital importance. 
 
 I thus aimed to create a tool that could infer your emotional state based on two pieces of information - a photo of your facial expression and a short caption of what just happened in your life. This approach should come as second nature among those who use social media frequently. If people could understand what they are feeling with the help of this approach, they could adapt their thinking in more productive ways (for instance, finding ways to relax if they know that thay are angry, or looking for coping mechanisms if they know they are sad). Additionally, if this tool were implemented with an app, for example, it could then recommend resources specific to its users' emotional state.
@@ -11,7 +12,9 @@ There is room for improvement for the models; given that the training datasets u
 
 One could also attempt to separate the neutral data from the data with emotion first, using another set of neural networks, as the model struggles the most with predicting neutral expressions and comments. 
 
-## Packages
+## Code and Packages
+- **Editor Used:**  Jupyter Notebook
+- **Python Version:** Python 3.11.5
 ### Tensorflow/Keras
   These packages are necessary for constructing and implementing my neural networks. I rely on Tensorflow and Keras' packages for all of the architecture, from the basic structure to the custom callbacks.
 ### Sci-Kit Learn
