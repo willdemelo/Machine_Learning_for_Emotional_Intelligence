@@ -23,6 +23,8 @@ One could also attempt to separate the neutral data from the data with emotion f
   Numpy and Pandas are needed for Tensorflow and Keras to function, and are required for loading and formatting the datasets I use.
 
 ## Bibliography
-Image data was sourced from this project: https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
+Image data was sourced from this project:
+https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
 
-Text data was sourced from this project: https://github.com/Valendrew/ekman-emotion-detection
+Text data was sourced from this project:
+https://github.com/Valendrew/ekman-emotion-detection
