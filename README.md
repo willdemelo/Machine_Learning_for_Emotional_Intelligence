@@ -24,4 +24,5 @@ One could also attempt to separate the neutral data from the data with emotion f
 
 ## Bibliography
 Image data was sourced from this project: https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
+
 Text data was sourced from this project: https://github.com/Valendrew/ekman-emotion-detection
